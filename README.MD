@@ -10,16 +10,16 @@
 </p>
 
 <div align="center">
-    <audio src="output/ElevenLabs_editado.MP3" controls title="Podcast editado"></audio>
+    <audio src="./output/ElevenLabs_editado.MP3" controls title="Podcast editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+Projeto com o objetivo de gerar um podcast utilizando IAs populamente conhecidas atualmente.
 
 Este projeto foi criado por meio de uma atividade proposta no curso - Microsoft 50 Anos - Prompts Inteligentes - na [Dio.me](https://www.dio.me/)
 
-## 💻 Tecnologias utilizadas no projeto
+## 💻 Tecnologias usadas
 
 -   [ChatGPT](https://chat.openai.com/)
 -   [ElevenLabs](https://beta.elevenlabs.io/)
@@ -31,18 +31,13 @@ Este projeto foi criado por meio de uma atividade proposta no curso - Microsoft 
 -   Audio gerado pela elevenLabs
 -   Capcut para tratar aúdio e adicionar sons de fundo
 
-## 📚 Materiais de apoio usados no curso - Microsoft 50 Anos - Prompts Inteligentes
+## 📚 Materiais de apoio usados ->
 
 -   [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
--   [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
 
-## 🛠️ Instruções de execução
+## ⏯️ Como ouvir?
 
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
-
--   🤖 1. Use os prompts de roteiro no `chagpt`
--   🤖 2. Use os prompts de roteiro gerados pelo chatgpt no `ElevenLabs`
--   🤖 3. Use os prompts de artes no `midjourney`
+Para ouvir o podcast, basta acessar a pasta output/ -> e reproduzir o arquivo "ElevenLabs_editado.MP3"
 
 ## 👨‍💻 Criador
 
